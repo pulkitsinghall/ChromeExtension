@@ -4,7 +4,7 @@ let validation = {
     "contexts":["all"]
 }
 let quit_browser = {
-    "id" : "quit_broswer" , 
+    "id" : "" , 
     "title": "Quit_Broswer" , 
     "contexts":["all"]
 }
