@@ -5,7 +5,7 @@ let validation = {
 }
 let quit_browser = {
     "id" : "" , 
-    "title": "Quit_Broswer" , 
+    "title": "Quit_" , 
     "contexts":["all"]
 }
 let pause = {
